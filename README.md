@@ -1,4 +1,4 @@
-#This is a school Project.
+# This is a school Project.
 # CSE 511: Data Processing at Scale — Project 1
 
 **Course:** CSE 511 - Data Processing at Scale (Fall 2024)  
