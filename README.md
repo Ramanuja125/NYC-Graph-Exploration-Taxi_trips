@@ -1,9 +1,6 @@
 # This is a school Project.
 # CSE 511: Data Processing at Scale — Project 1
 
-**Course:** CSE 511 - Data Processing at Scale (Fall 2024)  
-**Project:** Project 1 | Phase 1 & Phase 2  
-**Branch:** `phase-2`
 
 ---
 
@@ -203,9 +200,5 @@ Same **PageRank** and **BFS** implementations as Phase 1, now operating over dat
 
 - Neo4j Phase 1 password: `project1phase1`
 - Neo4j Phase 2 password: `project1phase2`
-- The grading environment has `minikube` and `helm` pre-installed and in PATH. Refer to `grader.md` for the exact commands used during grading.
-- Do not share code with other students. High-level discussion is permitted; code-level sharing is not.
 
 ---
-
-*CSE 511 — Fall 2024 | Copyright © Zhichao Cao, Ph.D.*
