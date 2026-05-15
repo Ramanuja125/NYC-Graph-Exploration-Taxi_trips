@@ -1,7 +1,3 @@
-# This is a school Project.
-# CSE 511: Data Processing at Scale — Project 1
-
-
 ---
 
 ## Overview
