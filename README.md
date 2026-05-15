@@ -1,6 +1,6 @@
 # CSE 511: Data Processing at Scale — Project 1
 
-**Course:** CSE 511 - Data Processing at Scale (Fall 2024)  
+
 **Project:** Project 1 | Phase 1 & Phase 2  
 **Branch:** `phase-2`
 
