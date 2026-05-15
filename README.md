@@ -1,5 +1,4 @@
-# CSE 511: Data Processing at Scale — Project 1
-
+# NYC graph exploration.
 
 **Project:** Project 1 | Phase 1 & Phase 2  
 **Branch:** `phase-2`
